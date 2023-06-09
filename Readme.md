@@ -19,7 +19,7 @@ After analyzing the data and building the recommendation system, we have created
 - `ContentBased_CosSim.ipynb`: Contains the implementation of the Content Based Filtering algorithm.
 - `cf2.py`: Contains the implementation of the Collaborative Filtering algorithm.
 - `ml_api.py`: Implements the Flask API for interacting with the recommendation system.
-- `trial model/`: Directory containing the dataset used for training and testing the recommendation system.
+- `trial/`: Directory containing the trial model dataset used for training and testing the recommendation system.
 - `requirements.txt`: Lists the required dependencies for running the project.
 
 ## Getting Started
