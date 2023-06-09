@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+sqlalchemy
+pymysql
+gunicorn
+surprise
