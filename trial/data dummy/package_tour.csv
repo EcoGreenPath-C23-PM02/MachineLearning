@@ -1,0 +1,10 @@
+﻿pack_id;package_name;duration; budget ;pack_bundle;
+1;Combo Program 1;1;Rp800.000,00; Welcoming Snack, Rice Field Trekking, Fireflies Watching.;
+2;Combo Program 2;1;Rp900.000,00;Welcoming Snack, Village Tour Cycling, Fireflies Watching.;
+3;Combo Program 3;1;Rp800.000,00;Welcoming Snack, Cooking Experience, Fireflies Watching.;
+4;Overnight Package 1;2;Rp1.750.000,00;"Breakfast, Lunches, Diner, Hiking, River Trekking and
+Waterfall, Fireflies Watching
+Waterfall, Fireflies Watching";
+5;Overnight Package 2;3;Rp3.000.000,00;"Breakfast, Lunches, Diner, Hiking, River Trekking and 
+Waterfall, Fireflies Watching
+Waterfall, Fireflies Watching, Cooking Class, Cycling ";
